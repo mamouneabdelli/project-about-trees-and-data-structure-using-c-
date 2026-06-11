@@ -166,8 +166,7 @@ bst-project/
 
 ## 👨‍💻 Author
 
-**Abdelli Abdelmoumen** — Group 03
-🎓 Final Project for *Algorithmique et Complexité*
+**Abdelli Abdelmoumen**
 
 ---
 
