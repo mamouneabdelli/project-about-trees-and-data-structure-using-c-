@@ -1,5 +1,0 @@
-Insérer : reproduit exactement la règle n->value < tmp->value → gauche, sinon droite, avec animation de la descente dans l'arbre.
-Rechercher : surligne le chemin parcouru, vert si trouvé, rouge si non trouvé (comme searchnode).
-Supprimer : applique les 3 cas de deleteNode (feuille, un seul fils, deux fils via le minimum du sous-arbre droit).
-Afficher par niveau : parcours BFS animé qui imite printByLevel, avec les valeurs affichées niveau par niveau dans la console.
-Bouton "Aléatoire" pour générer rapidement un arbre de test.
